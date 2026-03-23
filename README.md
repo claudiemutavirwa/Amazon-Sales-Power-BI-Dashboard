@@ -63,6 +63,12 @@ The dashboard enables data-driven decision-making through interactive visuals, d
 - Dataset (CSV)
 - Screenshots
 
+  ## How to Use
+1. Download the `.pbix` file
+2. Open it in Power BI Desktop
+3. Interact with filters and drill-through features
+
+
 
 # Author
 **Cladious Mutavirwa**  
