@@ -59,7 +59,8 @@ The dashboard enables data-driven decision-making through interactive visuals, d
 
 
 # Files Included
-- Amazon Sales Dashboard (.pbix)
+https://app.powerbi.com/links/8MdB5Da14A?ctid=a0833317-50b5-4748-95ff-a3aea0ebff70&pbi_source=linkShare
+
 - Dataset (CSV)
 - Screenshots
 
