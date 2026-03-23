@@ -44,12 +44,6 @@ The dashboard enables data-driven decision-making through interactive visuals, d
 - Certain regions outperform others in both revenue and profit
 - Higher-rated products tend to drive more sales
 
-# Dashboard Preview
-(Add screenshots here)
-
-
-
-
 
 
 # Files Included
